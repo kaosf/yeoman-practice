@@ -9,3 +9,6 @@ bundle install
 
 # install grunt-cli
 npm install -g grunt-cli@0.1.6
+
+# install bower
+npm install -g bower@0.8.6
