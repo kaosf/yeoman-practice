@@ -2,7 +2,7 @@
 
 You may prepare following items;
 
-* Node.js (&gt;= 0.10.x)
+* Node.js (&gt;= 0.8.x)
 * Ruby (&gt;= 2.0.0)
 * Bundler (gem)
 * Compass (gem)
