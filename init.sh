@@ -16,9 +16,9 @@ npm install -g bower@0.9.2
 mkdir my-app
 cd my-app
 
+npm install generator-webapp@0.2.2 # latest on 2013-05-31
 yo webapp
-# (report?) n
-# (h5bp, bootstrap?) Y
+# (bootstrap and sass?) Y
 # (requireJS?) n
 
 grunt test #=> OK
