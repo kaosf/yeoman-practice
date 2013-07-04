@@ -2,7 +2,7 @@
 
 You may prepare following items;
 
-* Node.js (&gt;= 0.8.x)
+* Node.js (&gt;= 0.10.x)
 * Ruby (&gt;= 2.0.0)
 * Bundler (gem)
 * Compass (gem)
@@ -11,7 +11,7 @@ Compass gem's latest version is 0.12.2 on 2013-04-24
 
 ```sh
 # run at only the first time
-npm install -g yo@1.0.0-beta.6
+npm install -g yo@1.0.0-rc.1
 gem install bundler
 # rbenv rehash # if you're using rbenv
 echo "source 'https://rubygems.org'" > Gemfile
@@ -20,6 +20,8 @@ bundle install
 # rbenv rehash # if you're using rbenv
 npm install -g grunt-cli@0.1.9
 npm install -g bower@0.9.2
+
+npm install generator-webapp@0.2.6
 ```
 
 ## References
